@@ -1,1 +1,1 @@
-# MagicLoplan.github.io
+# workplanmanagement.github.io
